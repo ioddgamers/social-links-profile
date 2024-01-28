@@ -58,7 +58,7 @@ img:hover{
 button {
     background-color: hsl(0, 0%, 20%);
     color: hsl(0, 0%, 100%);
-    width: 22em;
+    width: 20em;
     height: 4em;
     border: 0;
     border-radius: 1em;
@@ -70,7 +70,7 @@ button {
 button:hover {
     background-color:  hsl(75, 94%, 57%);
     color: black;
-    width: 23em;
+    width: 21em;
     height: 4.5em;
 
 }
